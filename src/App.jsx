@@ -9,10 +9,10 @@ import Gallery from "./Components/Gallery";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/school-website/">
       <div>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/*" element={<Home />} />
           <Route path="/academics" element={<Academics />} />
           <Route path="/admission" element={<Admission />} />
           <Route path="/faculty" element={<FacultyIntroduction />} />
