@@ -13,6 +13,9 @@ Link - https://jadhwik.github.io/school-website/
 The assets used in the project are in the assets folder.
 
 
+![Screenshot 2024-07-25 171630](https://github.com/user-attachments/assets/291c891d-0617-40ca-8c92-3add868d537a)
+
+
 
 # React + Vite
 
