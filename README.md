@@ -1,3 +1,19 @@
+# School Website
+
+Simple website to describe the facilities and achievements of school. Also helps the admission process.
+
+Link - https://jadhwik.github.io/school-website/
+
+# How to run:
+1. Intall git(if its not in the system).
+2. Clone the repository to vs code or any other editor.
+3. Redirect to the folder of the project.
+4. Run the command - npm run dev
+   
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
