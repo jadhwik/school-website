@@ -45,8 +45,8 @@ const About = () => {
         />
         <div className="bg-white p-6 rounded-t-lg rounded-br-lg shadow-lg w-full md:w-auto">
           <p className="text-gray-800 text-lg md:text-xl mb-4">
-            "At Springdale, we believe in nurturing the potential of every
-            student and guiding them towards a successful future".
+            "At Guardian, we believe in nurturing the potential of every student
+            and guiding them towards a successful future".
           </p>
           <div className="text-center md:text-left">
             <p className="text-xl font-semibold">Principal</p>
